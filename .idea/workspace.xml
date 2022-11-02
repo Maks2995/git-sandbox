@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="39f3a720-965f-4262-b5d7-8aca1b003f0b" name="Changes" comment="" />
+    <list default="true" id="39f3a720-965f-4262-b5d7-8aca1b003f0b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/math.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
